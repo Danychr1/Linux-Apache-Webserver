@@ -16,8 +16,8 @@ bashsudo bash scripts/install_apache.sh
 3. Verify Apache is running
 Open your web browser and navigate to:
 
-http://localhost
-Or use your system's IP address (find it with ip a)
+ - http://localhost
+ - Or use your system's IP address (find it with ip a)
 
 ## ✅ Expected Result
 You should see the Apache2 Default Page confirming successful installation.
@@ -25,10 +25,10 @@ You should see the Apache2 Default Page confirming successful installation.
 bash# Check Apache status
 sudo systemctl status apache2
 
-# Stop Apache
+ Stop Apache
 sudo systemctl stop apache2
 
-# Restart Apache
+ Restart Apache
 sudo systemctl restart apache2
 
 # View your IP address
