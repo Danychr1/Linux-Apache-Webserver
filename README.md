@@ -1,12 +1,16 @@
 # 🌐 Linux Apache Web Server Setup
 A hands-on lab for installing and configuring Apache web server on Debian-based Linux distributions (Ubuntu, Kali, Debian).
-## 📦 What You'll Learn
 
-Install Apache2 using the APT package manager
-Start and enable the Apache service
-Verify the Apache default page at http://localhost
-Manage Apache using systemctl commands
-Check network configuration with ip a
+## 📦 What You'll Learn
+* Install Apache2 using the APT package manager
+  
+* Start and enable the Apache service
+  
+* Verify the Apache default page at "http://localhost"
+  
+* Manage Apache using "systemctl" commands
+  
+* Check network configuration with "ip a"
 
 ## 🚀 Quick Start
 1. Make the script executable
