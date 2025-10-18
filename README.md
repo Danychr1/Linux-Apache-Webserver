@@ -58,5 +58,5 @@ sudo systemctl restart apache2
 
 ## ✅ Ideal For
 * Linux beginners
-* IT support or sysadmin labs
+* IT support or Sys-Admin labs
 * Local hosting and web service practice  
