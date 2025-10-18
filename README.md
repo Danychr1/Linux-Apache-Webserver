@@ -3,20 +3,20 @@ A hands-on lab for installing and configuring Apache web server on Debian-based 
 
 ## 📦 What You'll Learn
 * Install Apache2 using the APT package manager
-  
 * Start and enable the Apache service
-  
-* Verify the Apache default page at http://localhost
-  
-* Manage Apache using (systemctl)commands
-  
-* Check network configuration with ip a
+* Verify the Apache default page at `http://localhost`
+* Manage Apache using (`systemctl`)commands 
+* Check network configuration with `ip a`
 
 ## 🚀 Quick Start
 1. Make the script executable
-bashchmod +x scripts/install_apache.sh
+```bash
+chmod +x scripts/install_apache.sh
+```
 2. Run the installation script
-bashsudo bash scripts/install_apache.sh
+```bash
+sudo bash scripts/install_apache.sh
+```
 3. Verify Apache is running
 Open your web browser and navigate to:
 
